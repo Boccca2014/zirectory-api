@@ -47,7 +47,7 @@ router.delete("/api/meetings/:id", (req, res) => {
     });
 });
 
-router.put("/api/meetings/:id", (req, res) => {
+router.patch("/api/meetings/:id", (req, res) => {
   const id = req.params.id;
   const link = req.body.link;
 
