@@ -10,4 +10,4 @@ This is the backend for Zirectory: The Zoom Directory App!
   ```
 * To run the application: `nodemon .` (make sure `nodemon` is installed; see the lecture notes).
 
-You can deploy this backend to Heorku. Don't forget to transfer your enviroment variables (in `.env`) to Heroku's "config" variables.
+You can deploy this backend to Heorku. Don't forget to transfer your environment variables (in `.env`) to Heroku's "config" variables.
